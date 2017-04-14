@@ -1,0 +1,33 @@
+body {
+    background-image: url('../public/img/topography.png');
+    font-size: 16px;
+}
+
+h1 {
+    background-image: url('../public/img/congruent_outline.png');
+    color: #fff;
+    padding: 30px 0;
+    border-radius: 6px;
+}
+
+.sectionForm {
+    width: 300px;
+    margin: auto;
+}
+
+.form-inline {
+    display: inline-block;
+    margin: 20px 30px 30px 0;
+}
+
+#paras {
+    width: 50px;
+}
+
+.footer {
+    margin-top: 85px;
+    background-image: url('../public/img/congruent_outline.png');
+    color: #fff;
+    padding: 20px 0;
+    border-radius: 6px;
+}
